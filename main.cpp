@@ -1,4 +1,4 @@
-//Day 1 program Dr_T caculate salary C++: YourLastName
+//Day 1 program Dr_T caculate salary C++: YourLastName Dr. Tyson McMillan 
 //Date: 1-13-2020 IDE: Repl.it tool
 #include <iostream>
 using namespace std; 
